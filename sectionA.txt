@@ -1,0 +1,20 @@
+A1.
+answer = b
+A2.
+answer = b
+A3.
+answer = b
+A4.
+answer = c
+A5.
+answer = c
+A6.
+answer = b
+A7.
+answer = c
+A8.
+answer = b
+A9.
+answer = d
+A10.
+answer = c
