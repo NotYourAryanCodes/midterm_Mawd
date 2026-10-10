@@ -95,5 +95,5 @@ if __name__ == "__main__":
     make_table_if_needed()
     print("B1 output:")
     question_b1()
-    print("\nB2 insert example (uncomment the next line to insert Vikram):")
+    print("\nB2 output:")
     question_b2()
