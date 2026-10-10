@@ -29,7 +29,8 @@ if cursor.fetchone()[0] == 0:
     )
     conn.commit()
 
-
+#increase the price of book ID 2 by 10%
+cursor.execute("UPDATE books SET price = price * 1.10 WHERE id = ?", (2,))
 
 # Delete books whose price is less than 200.
 cursor.execute("DELETE FROM books WHERE price < ?", (200,))
